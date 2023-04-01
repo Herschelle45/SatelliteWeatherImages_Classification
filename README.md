@@ -1,6 +1,7 @@
 # SatelliteWeatherImages_Classifificatio (**PyTorch**)
 Classifying satellite images using Inception-Resnet-v2
 
+Achieved 90% accuracy after **<u>50</u> epochs**
 Paper: **https://arxiv.org/abs/1602.07261** </br>
 ```
 $ git clone https://github.com/Herschelle45/InceptionV4-PyTorch.git
